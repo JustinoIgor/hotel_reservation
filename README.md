@@ -1,4 +1,4 @@
-# hotel_reservation
+# Hotel Reservation
 
 This project was proposed as the solution to a fictitious business problem
 
